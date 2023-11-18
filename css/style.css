@@ -1,0 +1,111 @@
+html {
+	background-color: #000;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*welcome*/
+
+#welc {
+	color: #d83f1e;
+	font-size: 35px;
+	display: flex; 
+	justify-content: center;
+}
+
+#homedescrip {
+	color: #d0c5b2;
+	padding-top: 10px;
+	display: flex;
+	justify-content: center;
+}
+
+.nav {
+	color: #d0c5b2;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	font-size: 15px;
+}
+
+#navitem, #navitem1 {
+	text-decoration: none;
+	color: #d0c5b2;
+}
+
+#navitem1 {
+	padding-left: 25px;
+}
+
+#navitem:visited, #navitem1:visited {
+	text-decoration: none;
+	color: #d0c5b2;
+}
+
+#warning {
+	color: #d0c5b2;
+	display: flex;
+	justify-content: center;
+}
+
+#welcomeim {
+	padding-left: 450px;
+}
+
+#warngif {
+	padding-left: 400px;
+}
+
+/*blog body*/
+
+#date {
+	padding-top: 20px;
+	padding-bottom: 5px;
+	font-style: italic;
+}
+
+#date, #descrip, #mod {
+	color: #d0c5b2;
+}
+
+#conname {
+	color: #d83f1e;
+	font-size: 20px;
+}
+
+#readmore {
+	text-decoration: none;
+	color: #d0c5b2;
+	padding-top: 10px;
+}
+
+#readmore:visited {
+	text-decoration: none;
+	color: #d0c5b2;
+}
+
+#mod {
+	padding-top: 30px;
+}
+
+/*blue sky mall*/
+
+#date, #mallcon {
+	color: #d0c5b2;
+}
+
+#contitle {
+	color: #d83f1e;
+}
+
+#map {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#secrets {
+	color: #000;
+}
